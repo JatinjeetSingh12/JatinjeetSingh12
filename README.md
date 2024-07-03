@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JatinjeetSingh12
-- 👀 I’m interested in web development and Mobile devlopment.
-- 🌱 I’m currently learning MERN Stack and React native.
+- 🌱 I’m currently working as React native Developer.
 - 📫 How to reach me Email - jatinjeetsingh041@gmail.com.
 - 
 
